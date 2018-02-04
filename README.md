@@ -13,7 +13,7 @@ Ce projet est une tâche effectuée lors du projet **YDays** de l'école **Ynov*
 ## Project summary
 
 This project is a task performed during the **YDays** project of the **Ynov** school. This project consisted of a complete redesign and recast of the website http://artefacts.mom.fr/ in collaboration with the CNRS. During this project, I had to realize the **Bibliography** page of the website. Here is the *github* code of this page.
-
+ 
 
 
 ### List of my Learning series at Ynov :
